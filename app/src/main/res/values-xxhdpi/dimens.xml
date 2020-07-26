@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="dimen_2">6dp</dimen>
+    <dimen name="dimen_20">60dp</dimen>
+    <dimen name="dimen_40">120dp</dimen>
+    <dimen name="text_degrees">60sp</dimen>
+    <dimen name="text_16">22sp</dimen>
+    <dimen name="text_14">20sp</dimen>
+</resources>

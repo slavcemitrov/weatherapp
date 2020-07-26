@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="hint_location">City Name</string>
+    <string name="default_error_message">Oops, looks like something went wrong. Please try again and if the problem still persists, contact our support center</string>
+    <string name="end_point">/data/2.5/weather</string>
+    <string name="no_internet_connection">Please check your internet connection</string>
+    <string name="disabled_gps">It seems like your location services are disabled. Please enabled them in order to detect your location</string>
+    <string name="permissions_denied">Your locations permissions are denied. You need to grant location permissions from your phone settings in order to detect your current location.</string>
+    <string name="text_ok">OK</string>
+    <string name="units_metric">metric</string>
+    <string name="icon_description">weatherIconImage</string>
+
+    <string name="imgUrl">https://openweathermap.org/img/wn/%1$s@2x.png</string>
+
+    <string name="weather_pressure">Pressure: %1$s Pa</string>
+    <string name="weather_feels_like">Feels like: %1$s </string>
+    <string name="weather_humidity">Humidity: %1$s%%</string>
+    <string name="weather_visibility">Visibility: %1$skm</string>
+    <string name="weather_cloud">CloudCoverage: %1$s%%</string>
+</resources>

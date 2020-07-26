@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="dimen_2">4dp</dimen>
+    <dimen name="dimen_20">40dp</dimen>
+    <dimen name="dimen_40">80dp</dimen>
+    <dimen name="text_degrees">40sp</dimen>
+    <dimen name="text_16">20sp</dimen>
+    <dimen name="text_14">18sp</dimen>
+</resources>
